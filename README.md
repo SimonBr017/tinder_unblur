@@ -1,2 +1,3 @@
 # tinder_unblur
-On tinder web app, connect to your account and copy past the code in the console, as the result you will have the links of the unblured photos of peoples who liked your profile.
+unblur the pictures on tinder web app of the users who liked your profile
+copy past the code in the console to unblur the pics.
